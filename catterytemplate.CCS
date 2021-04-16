@@ -1,0 +1,167 @@
+<!--add anything that you would normally put in the description here-->
+
+<!--the description is in HTML, but to edit the site use CSS like below-->
+<link rel="stylesheet" href="/css/mweor_green.css" /><style>#bodyi {
+	position:absolute;
+	background-image:url(' ');
+	height:0;
+	margin:0px !important;
+	color:green;
+}
+/*general site background*/
+body {
+	background-image:url('https://tse2.mm.bing.net/th?id=OIP.9kSVhMCCYtwWSpr0NZBAYQHaHa&pid=Api');
+	background-attachment:fixed;
+	background-color:none !important;
+}
+/*centres general menu*/
+#holder {
+	width:100%;
+	color:pink;
+}
+/*contentholder (cat breed number)*/
+#contentholder {
+	width:100%;
+	color:#ffffff;
+	margin-left:-20px;
+	font-family:'Courier New',courier;
+}
+/*cattery tab background*/
+.ui-widget-header {
+	background:#5a7ea0;
+	border:none;
+	background-image:url(' ');
+}
+/*cattery tab colour*/
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	background:#ffffff;
+	border:none;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	background:#ffffff;
+	border:none;
+}
+/*tab text colour*/
+.ui-state-default a, .ui-state-default a:link {
+	font-family:'Courier New',courier;
+	color:#000000!important;
+}
+/*tab text colour when hovered over*/
+.ui-state-default a, .ui-state-default a:hover {
+	color:#0077b3!important;
+}
+/*things at the top of the page*/
+/*option to report player*/
+.trans{
+	font-family:'Courier New',courier;
+	text-align:center;
+}
+/*infobox (profile picture)*/
+#cattery_infobox img {
+}
+/*cattery infobox (mweors, fame, past fame...)*/
+#cattery_infobox {
+	color:#000000;
+	font-family:'Courier New',courier;
+}
+/*good label (online status)*/
+.good_label {
+	font-family:'Courier New',courier;
+	background:#5a7ea0 !important;
+	color:#ffffff;
+	text-align:center;
+}
+/*cattery_descbox (cattery description box)*/
+#cattery_descbox {
+	width:757px !important;
+	height:450px;
+	margin-top:0px !important;
+	background-image:url('http://pngimg.com/uploads/polar_bear/polar_bear_PNG23526.png');
+	margin:auto;
+	background-attachment:fixed;
+	background-color:#5a7ea0 !important;
+	overflow:scroll;
+	#000 solid;
+	padding:5px;
+}
+/*content (centre holder column)*/
+#content {
+	width:1000px !important;
+	background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Transparent_square.svg/768px-Transparent_square.svg.png');
+	background-attachment:fixed;
+	margin:auto;
+	padding:0px !important;
+	margin-top:0px !important;
+	border:none;
+	padding-bottom:30px;
+}
+/*b (cattery settings, nickname, email...)*/
+b {
+	font-family:'Courier New',courier;
+	color:#000000;
+}
+/*button (all buttons)*/
+.button {
+	background-color:#fffff;
+}
+/*spacer (all spacers)*/
+.spacer {
+	height:0px;
+}
+/*mweorbox (margin between mweor displays)*/
+.mweorbox {
+	width:20%;
+}
+/*input submit buttons (feed, water, etc)*/
+input[type=submit] {
+	background-color:#a0d2de !important;
+	background-image:url("");
+	color:#fffff;
+	font-family:'Courier New',courier;
+	font-weight:bold;
+	font-size:12px;
+	text-transform:uppercase;
+	border:none;
+}
+input[type=submit]:hover {
+	color:#0077b3 !important;
+	border:none;
+}
+/*hidden aspects I didn't want on my page:*/
+/*menu (cattery, explore, community...)*/
+.sf-menu {
+	display:none;
+}
+/*footer (copywrite, share links...)*/
+#footer {
+	display:none;
+}
+/*title bar (each section title & cat symbol...)*/
+.titlebar {
+	display:none;
+	height:0px !important;
+}
+/*top banner (mweor image, server time, fame points...)*/
+#topbanner {
+	display:none;
+}
+/*bottom banner (bottom of traditional template)*/
+#bottombanner img {
+	display:none;
+}
+/*retired label*/
+.retired_label, .neutral_label {
+	font-family:'Courier New',courier;
+	background:#fffff !important;
+	color:#fffff !important;
+	display:none;
+	text-align:center;
+	}
+	/*tooltip (information displayed when hovering*/
+	.ui-tooltip {
+		background-color: #a0d2de !important;
+		color: #543530 !important;
+		border: 1px line #ffffff;
+		box-shadow: none !important;
+	}
+	</style>
