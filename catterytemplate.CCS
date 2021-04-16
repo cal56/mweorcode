@@ -1,167 +1,104 @@
-<!--add anything that you would normally put in the description here-->
+<p>&nbsp;</p>
 
-<!--the description is in HTML, but to edit the site use CSS like below-->
-<link rel="stylesheet" href="/css/mweor_green.css" /><style>#bodyi {
-	position:absolute;
-	background-image:url(' ');
-	height:0;
-	margin:0px !important;
-	color:green;
-}
-/*general site background*/
-body {
-	background-image:url('https://tse2.mm.bing.net/th?id=OIP.9kSVhMCCYtwWSpr0NZBAYQHaHa&pid=Api');
-	background-attachment:fixed;
-	background-color:none !important;
-}
-/*centres general menu*/
-#holder {
-	width:100%;
-	color:pink;
-}
-/*contentholder (cat breed number)*/
-#contentholder {
-	width:100%;
-	color:#ffffff;
-	margin-left:-20px;
-	font-family:'Courier New',courier;
-}
-/*cattery tab background*/
-.ui-widget-header {
-	background:#5a7ea0;
-	border:none;
-	background-image:url(' ');
-}
-/*cattery tab colour*/
-.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-	background:#ffffff;
-	border:none;
-}
-.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-	background:#ffffff;
-	border:none;
-}
-/*tab text colour*/
-.ui-state-default a, .ui-state-default a:link {
-	font-family:'Courier New',courier;
-	color:#000000!important;
-}
-/*tab text colour when hovered over*/
-.ui-state-default a, .ui-state-default a:hover {
-	color:#0077b3!important;
-}
-/*things at the top of the page*/
-/*option to report player*/
-.trans{
-	font-family:'Courier New',courier;
-	text-align:center;
-}
-/*infobox (profile picture)*/
-#cattery_infobox img {
-}
-/*cattery infobox (mweors, fame, past fame...)*/
-#cattery_infobox {
-	color:#000000;
-	font-family:'Courier New',courier;
-}
-/*good label (online status)*/
-.good_label {
-	font-family:'Courier New',courier;
-	background:#5a7ea0 !important;
-	color:#ffffff;
-	text-align:center;
-}
-/*cattery_descbox (cattery description box)*/
-#cattery_descbox {
-	width:757px !important;
-	height:450px;
-	margin-top:0px !important;
-	background-image:url('http://pngimg.com/uploads/polar_bear/polar_bear_PNG23526.png');
-	margin:auto;
-	background-attachment:fixed;
-	background-color:#5a7ea0 !important;
-	overflow:scroll;
-	#000 solid;
-	padding:5px;
-}
-/*content (centre holder column)*/
-#content {
-	width:1000px !important;
-	background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Transparent_square.svg/768px-Transparent_square.svg.png');
-	background-attachment:fixed;
-	margin:auto;
-	padding:0px !important;
-	margin-top:0px !important;
-	border:none;
-	padding-bottom:30px;
-}
-/*b (cattery settings, nickname, email...)*/
-b {
-	font-family:'Courier New',courier;
-	color:#000000;
-}
-/*button (all buttons)*/
-.button {
-	background-color:#fffff;
-}
-/*spacer (all spacers)*/
-.spacer {
-	height:0px;
-}
-/*mweorbox (margin between mweor displays)*/
-.mweorbox {
-	width:20%;
-}
-/*input submit buttons (feed, water, etc)*/
-input[type=submit] {
-	background-color:#a0d2de !important;
-	background-image:url("");
-	color:#fffff;
-	font-family:'Courier New',courier;
-	font-weight:bold;
-	font-size:12px;
-	text-transform:uppercase;
-	border:none;
-}
-input[type=submit]:hover {
-	color:#0077b3 !important;
-	border:none;
-}
-/*hidden aspects I didn't want on my page:*/
-/*menu (cattery, explore, community...)*/
-.sf-menu {
-	display:none;
-}
-/*footer (copywrite, share links...)*/
-#footer {
-	display:none;
-}
-/*title bar (each section title & cat symbol...)*/
-.titlebar {
-	display:none;
-	height:0px !important;
-}
-/*top banner (mweor image, server time, fame points...)*/
-#topbanner {
-	display:none;
-}
-/*bottom banner (bottom of traditional template)*/
-#bottombanner img {
-	display:none;
-}
-/*retired label*/
-.retired_label, .neutral_label {
-	font-family:'Courier New',courier;
-	background:#fffff !important;
-	color:#fffff !important;
-	display:none;
-	text-align:center;
-	}
-	/*tooltip (information displayed when hovering*/
-	.ui-tooltip {
-		background-color: #a0d2de !important;
-		color: #543530 !important;
-		border: 1px line #ffffff;
-		box-shadow: none !important;
-	}
-	</style>
+<!--a marquee is basically a scrolling header-->
+<marquee><span style="font-size:28px"><span style="font-family:Courier New,courier">welcome to my cattery!</span></span></marquee>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:Courier New,courier">If you&#39;d like to learn some basic HTML and CCS coding things to change the appearance of your cattery, message me and I will be happy to help! I also have the code that I worked on available </span></span><strong><span style="font-size:18px"><span style="font-family:Courier New,courier"><a href="https://github.com/cal56/mweorcode"><span style="color:#ffffff">here</span></a></span></span></strong><span style="font-size:16px"><span style="font-family:Courier New,courier">, as well as resources that I used.</span></span></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
+	<thead>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><strong>links</strong></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><strong>shops</strong></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><strong>explore</strong></span></span></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/dumpster.php"><span style="color:#ffffff">dumpster</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/shops.php?id=1"><span style="color:#ffffff">toy shop</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/new.php/preserve"><span style="color:#ffffff">the preserve</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/bank.php"><span style="color:#ffffff">bank</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/shops.php?id=3"><span style="color:#ffffff">accessories</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/new.php/maze"><span style="color:#ffffff">thunder maze</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/breed.php"><span style="color:#ffffff">breed</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/shops.php?id=5"><span style="color:#ffffff">backgrounds</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/temple"><span style="color:#ffffff">arbor temple</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/mweorsearch.php"><span style="color:#ffffff">search</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/shops.php?id=7"><span style="color:#ffffff">miscellaneous</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/arbor_village/garden"><span style="color:#ffffff">arbor garden</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/cattery_expected.php?id=211761"><span style="color:#ffffff">mwits</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/shops.php?id=8"><span style="color:#ffffff">pet shop</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/jungle"><span style="color:#ffffff">forbidden jungle</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/cattery_overview.php?id=211761"><span style="color:#ffffff">overview</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/shops.php?id=11"><span style="color:#ffffff">fame shop</span></a></span></span></td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/avalanche"><span style="color:#ffffff">avalanche tunnel</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/goals"><span style="color:#ffffff">goals</span></a></span></span></td>
+			<td style="text-align:center">&nbsp;</td>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/new.php/tundra"><span style="color:#ffffff">windswept tundra</span></a></span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><strong>games</strong></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/games_number.php"><span style="color:#ffffff">guess the number</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/games_mcd.php"><span style="color:#ffffff">mouse-cat-dog</span></a></span></span></td>
+		</tr>
+		<tr>
+			<td style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:14px"><a href="https://mweor.com/games_pawdraw.php"><span style="color:#ffffff">paw draw</span></a></span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:25px"><em>Please pat my mweors!</em></span></span></p>
+
+<h3 style="text-align:center"><span style="font-family:Courier New,courier"><img alt="" src="https://i.pinimg.com/originals/3f/3e/1d/3f3e1d2187bc5815c2dc3cbcb075535f.gif" style="height:232px; width:300px" /></span></h3>
+
+<h3 style="text-align:center">&nbsp;</h3>
+
+<h3 style="text-align:center"><span style="font-family:&quot;Courier New&quot;,courier; font-size:18px">They need love!</span></h3>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h1 style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:48px"><strong>Calcattery</strong></span></span></h1>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:18px">My name is Cal and I&#39;m just hanging out here on Mweor.<big> ि=०⋏०ॢी</big></span></span></p>
+
+<p style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:18px">I can lower the price to breed or sell my mweors, so feel free to ask if you&#39;d like me to.</span></span></p>
+
+<h1 style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:18px"><a href="https://htmleditor.online/full"><span style="color:#ffffff">html editor for cattery editing</span></a></span></span></h1>
+
+<h1 style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:18px"><a href="https://www.random.org/strings/?num=10&amp;len=3&amp;digits=on&amp;loweralpha=on&amp;unique=on&amp;format=html&amp;rnd=new"><span style="color:#ffffff">random string generator for differentiation</span></a></span></span></h1>
+
+<h1 style="text-align:center"><span style="font-family:Courier New,courier"><span style="font-size:18px"><a href="https://www.behindthename.com/random/random.php?number=1&amp;sets=1&amp;gender=both&amp;surname=&amp;all=yes"><span style="color:#ffffff">random name generator for naming</span></a></span></span></h1>
+
+<p>&nbsp;</p>
